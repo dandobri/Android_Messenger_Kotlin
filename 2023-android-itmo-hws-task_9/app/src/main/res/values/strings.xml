@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">itmo-example</string>
+    <string name="login">Логин</string>
+    <string name="add_uor_login_and_password">Введите ваш логин и пароль</string>
+    <string name="password">Пароль</string>
+    <string name="forget_password">Забыли пароль?</string>
+    <string name="enter">Войти</string>
+    <string name="card_tittle_text">Чат</string>
+    <string name="chat_name">Название чата</string>
+    <string name="home_description">Домашняя страница</string>
+    <string name="card_description_text">Сообщение</string>
+    <string name="card_time">16:15</string>
+    <string name="chat_text">Чат</string>
+    <string name="null_text">Сообщений нет</string>
+    <string name="new_chat">Создать новый чат</string>
+    <string name="message_title">Сообщение</string>
+    <string name="message_description">Перейти</string>
+    <string name="message_time">16:15</string>
+</resources>
